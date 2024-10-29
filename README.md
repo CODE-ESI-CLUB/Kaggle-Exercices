@@ -1,6 +1,15 @@
-# Kaggle-courses
-This repository provides solutions for Kaggle exercises covering topics like Python.
+# Kaggle-Exercices
 
-Build essential skills for independent data science projects. Kaggle simplifies complex concepts, focusing on practical, actionable skills you can acquire in just a few hours instead of weeks.
+This repository contains solutions for Kaggle exercises, covering essential data science topics such as Python.
 
-These courses were a valuable refresher for data science fundamentals.
+Kaggle's courses distill complex concepts into key practical components, enabling you to acquire usable data science skills quickly — in just hours instead of weeks. This collection of exercises offers a great opportunity to revisit fundamental skills.
+
+## Table of Contents
+
+- [Python](#python)
+
+## Python
+
+```shell
+# Master the key programming language for data science.
+# Python is versatile and widely used for data analysis, machine learning, and more.
