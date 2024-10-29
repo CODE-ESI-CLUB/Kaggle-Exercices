@@ -11,5 +11,5 @@ Kaggle's courses distill complex concepts into key practical components, enablin
 ## Python
 
 ```shell
-# Master the key programming language for data science.
-# Python is versatile and widely used for data analysis, machine learning, and more.
++ Master the key programming language for data science.
++ Python is versatile and widely used for data analysis, machine learning, and more.
